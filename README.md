@@ -21,8 +21,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 | | List | Description |
 |:---:|:---|:---|
-| ✏️ | **[Awesome 3D/4D Editing](https://github.com/YOUR_USERNAME/awesome-3d-4d-editing)** | Papers on 3D and 4D scene/object editing |
-| 🔄 | **[Awesome FeedForward 3D/4D Reconstruction](https://github.com/YOUR_USERNAME/awesome-feedforward-3d-4d-reconstruction)** | Papers on feed-forward 3D/4D reconstruction |
+| ✏️ | **[Awesome 3D/4D Editing](https://github.com/2hiTee/awesome-3D-4D-Editing)** | Papers on 3D and 4D scene/object editing |
+| 🔄 | **[Awesome FeedForward 3D/4D Reconstruction](https://github.com/2hiTee/awesome-feedforward-3D-4D-Reconstruction)** | Papers on feed-forward 3D/4D reconstruction |
 
 </div>
 
