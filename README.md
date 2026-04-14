@@ -38,8 +38,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 👁️ | [↳ 4D (Multi-View Based)](#%EF%B8%8F-4d-multi-view-based) | 5 |
 | 🏗️ | [Direct 3D Generation: LRM Based](#%EF%B8%8F-direct-3d-generation-lrm-based) | 13 |
 | 🎯 | [Direct 3D Generation](#-direct-3d-generation) | 19 |
-| 🌀 | [Implicit](#-implicit) | 10 |
-| 🔶 | [Explicit](#-explicit) | 13 |
+| 🌀 | [Implicit Latent Space](#-implicit-latent-space) | 10 |
+| 🔶 | [Explicit Latent Space](#-explicit-latent-space) | 13 |
 | 🔶 | [↳ 4D (Explicit)](#-4d-explicit) | 1 |
 | 🔺 | [Triplane](#-triplane) | 9 |
 | 🕸️ | [Mesh Generation](#%EF%B8%8F-mesh-generation) | 19 |
@@ -208,9 +208,9 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 ---
 
-## 🌀 Implicit
+## 🌀 Implicit Latent Space
 
-> Implicit neural representations for 3D shape generation.
+> Implicit latent space representations for 3D shape generation.
 
 | # | Paper | Link |
 |:---:|:---|:---:|
@@ -229,9 +229,9 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 ---
 
-## 🔶 Explicit
+## 🔶 Explicit Latent Space
 
-> Explicit 3D representations (Gaussians, structured latents, etc.) for generation.
+> Explicit latent space representations (Gaussians, structured latents, etc.) for generation.
 
 | # | Paper | Link |
 |:---:|:---|:---:|
