@@ -7,7 +7,6 @@
 A curated collection of cutting-edge research papers on **3D and 4D Content Generation**.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Papers](https://img.shields.io/badge/Total_Papers-161-blue?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 **If you find this repo useful, please consider giving it a ⭐!**
 
@@ -30,21 +29,21 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 ## 📋 Table of Contents
 
-| Section | Topic | Count |
-|:---:|:---|:---:|
-| 🔥 | [SDS Based](#-sds-based) | 22 |
-| 🔥 | [↳ 4D (SDS Based)](#-4d-sds-based) | 6 |
-| 👁️ | [Multi-View Generation Based](#%EF%B8%8F-multi-view-generation-based) | 33 |
-| 👁️ | [↳ 4D (Multi-View Based)](#%EF%B8%8F-4d-multi-view-based) | 5 |
-| 🏗️ | [Direct 3D Generation: LRM Based](#%EF%B8%8F-direct-3d-generation-lrm-based) | 13 |
-| 🎯 | [Direct 3D Generation](#-direct-3d-generation) | 19 |
-| 🌀 | [Implicit Latent Space](#-implicit-latent-space) | 10 |
-| 🔶 | [Explicit Latent Space](#-explicit-latent-space) | 13 |
-| 🔶 | [↳ 4D (Explicit)](#-4d-explicit) | 1 |
-| 🔺 | [Triplane](#-triplane) | 9 |
-| 🕸️ | [Mesh Generation](#%EF%B8%8F-mesh-generation) | 19 |
-| 🧩 | [Part Generation](#-part-generation) | 14 |
-| 🦾 | [Articulate](#-articulate) | 20 |
+| Section | Topic |
+|:---:|:---|
+| 🔥 | [SDS Based](#-sds-based) |
+| 🔥 | [↳ 4D (SDS Based)](#-4d-sds-based) |
+| 👁️ | [Multi-View Generation Based](#%EF%B8%8F-multi-view-generation-based) |
+| 👁️ | [↳ 4D (Multi-View Based)](#%EF%B8%8F-4d-multi-view-based) |
+| 🏗️ | [Direct 3D Generation: LRM Based](#%EF%B8%8F-direct-3d-generation-lrm-based) |
+| 🎯 | [Direct 3D Generation](#-direct-3d-generation) |
+| 🌀 | [Implicit Latent Space](#-implicit-latent-space) |
+| 🔶 | [Explicit Latent Space](#-explicit-latent-space) |
+| 🔶 | [↳ 4D (Explicit)](#-4d-explicit) |
+| 🔺 | [Triplane](#-triplane) |
+| 🕸️ | [Mesh Generation](#%EF%B8%8F-mesh-generation) |
+| 🧩 | [Part Generation](#-part-generation) |
+| 🦾 | [Articulate](#-articulate) |
 
 ---
 
@@ -223,7 +222,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 7 | **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets** | [📄](https://arxiv.org/abs/2505.07747) |
 | 8 | **Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material** | [📄](http://arxiv.org/abs/2506.15442) |
 | 9 | **Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details** | [📄](http://arxiv.org/abs/2506.16504) |
-| 10 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
+| 10 | **LATTICE: Democratize high-fidelity 3D generation at scale** | [📄](http://arxiv.org/abs/2512.03052) |
+| 11 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
