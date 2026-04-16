@@ -305,7 +305,9 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 16 | **ARMesh: Autoregressive Mesh Generation via Next-Level-of-Detail Prediction** | [📄](http://arxiv.org/abs/2509.20824) |
 | 17 | **FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation** | [📄](https://arxiv.org/abs/2511.15618) |
 | 18 | **PartDiffuser: Part-Wise 3D Mesh Generation via Discrete Diffusion** | [📄](https://arxiv.org/abs/2511.18801) |
-| 19 | **Strips as Tokens: Artist Mesh Generation with Native UV Segmentation** | [📄](https://arxiv.org/abs/2604.09132v1) |
+| 19 | **TopGen: Learning structural layouts and cross-fields for quadrilateral mesh generation** | [📄](http://arxiv.org/abs/2603.10606) |
+| 20 | **FACE: A face-based autoregressive representation for high-fidelity and efficient mesh generation** | [📄](http://arxiv.org/abs/2603.01515) |
+| 21 | **Strips as Tokens: Artist Mesh Generation with Native UV Segmentation** | [📄](https://arxiv.org/abs/2604.09132v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
