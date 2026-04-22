@@ -35,8 +35,8 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 🔥 | [↳ 4D (SDS Based)](#-4d-sds-based) |
 | 👁️ | [Multi-View Generation Based](#%EF%B8%8F-multi-view-generation-based) |
 | 👁️ | [↳ 4D (Multi-View Based)](#%EF%B8%8F-4d-multi-view-based) |
-| 🏗️ | [Direct 3D Generation: LRM Based](#%EF%B8%8F-direct-3d-generation-lrm-based) |
-| 🎯 | [Direct 3D Generation](#-direct-3d-generation) |
+| 🏗️ | [Naïve 3D Generation: LRM Based](#%EF%B8%8F-na%C3%AFve-3d-generation-lrm-based) |
+| 🎯 | [Naïve 3D Generation](#-na%C3%AFve-3d-generation) |
 | 🌀 | [Implicit Latent Space](#-implicit-latent-space) |
 | 🔶 | [Explicit Latent Space](#-explicit-latent-space) |
 | 🔶 | [↳ 4D (Explicit)](#-4d-explicit) |
@@ -153,7 +153,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 ---
 
-## 🏗️ Direct 3D Generation: LRM Based
+## 🏗️ Naïve 3D Generation: LRM Based
 
 > Large Reconstruction Model (LRM) based feed-forward 3D generation.
 
@@ -177,9 +177,9 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 ---
 
-## 🎯 Direct 3D Generation
+## 🎯 Naïve 3D Generation
 
-> Direct 3D native generation methods (diffusion in 3D space, autoregressive, etc.).
+> Naïve 3D native generation methods (diffusion in 3D space, autoregressive, etc.).
 
 | # | Paper | Link |
 |:---:|:---|:---:|
@@ -245,9 +245,13 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 8 | **Few-Step Flow for 3D Generation via Marginal-Data Transport Distillation** | [📄](http://arxiv.org/abs/2509.04406) |
 | 9 | **ReconViaGen: Towards Accurate Multi-View 3D Object Reconstruction via Generation** | [📄](https://arxiv.org/abs/2510.23306) |
 | 10 | **SAM 3D: 3Dfy Anything in Images** | [📄](http://arxiv.org/abs/2511.16624) |
-| 11 | **Native and Compact Structured Latents for 3D Generation** | [📄](http://arxiv.org/abs/2512.14692) |
-| 12 | **RelaxFlow: Text-Driven Amodal 3D Generation** | [📄](http://arxiv.org/abs/2603.05425) |
-| 13 | **Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors** | [📄](http://arxiv.org/abs/2603.18782) |
+| 11 | **Wukong's 72 transformations: High-fidelity textured 3D morphing via flow models** | [📄](http://arxiv.org/abs/2511.22425) |
+| 12 | **Native and Compact Structured Latents for 3D Generation** | [📄](http://arxiv.org/abs/2512.14692) |
+| 13 | **MorphAny3D: Unleashing the power of structured latent in 3D morphing** | [📄](http://arxiv.org/abs/2601.00204) |
+| 14 | **Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training** | [📄](http://arxiv.org/abs/2601.03256) |
+| 15 | **Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing** | [📄](http://arxiv.org/abs/2601.14103) |
+| 16 | **RelaxFlow: Text-Driven Amodal 3D Generation** | [📄](http://arxiv.org/abs/2603.05425) |
+| 17 | **Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors** | [📄](http://arxiv.org/abs/2603.18782) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
