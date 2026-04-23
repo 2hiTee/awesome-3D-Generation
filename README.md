@@ -222,8 +222,10 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 7 | **Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets** | [📄](https://arxiv.org/abs/2505.07747) |
 | 8 | **Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material** | [📄](http://arxiv.org/abs/2506.15442) |
 | 9 | **Hunyuan3D 2.5: Towards High-Fidelity 3D Assets Generation with Ultimate Details** | [📄](http://arxiv.org/abs/2506.16504) |
-| 10 | **LATTICE: Democratize high-fidelity 3D generation at scale** | [📄](http://arxiv.org/abs/2512.03052) |
-| 11 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
+| 10 | **Seed3D 1.0: From images to high-fidelity simulation-ready 3D assets** | [📄](2510.19944v1) |
+| 11 | **LATTICE: Democratize high-fidelity 3D generation at scale** | [📄](http://arxiv.org/abs/2512.03052) |
+| 12 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
+| 13 | **Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation** | [📄](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/pdf/Seed3D_v2.pdf) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
