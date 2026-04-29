@@ -38,6 +38,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 🏗️ | [Naïve 3D Generation: LRM Based](#%EF%B8%8F-na%C3%AFve-3d-generation-lrm-based) |
 | 🎯 | [Naïve 3D Generation](#-na%C3%AFve-3d-generation) |
 | 🌀 | [Implicit Latent Space](#-implicit-latent-space) |
+| 🌀 | [↳ 4D (Implicit)](#-4d-implicit) |
 | 🔶 | [Explicit Latent Space](#-explicit-latent-space) |
 | 🔶 | [↳ 4D (Explicit)](#-4d-explicit) |
 | 🔺 | [Triplane](#-triplane) |
@@ -226,6 +227,14 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 11 | **LATTICE: Democratize high-fidelity 3D generation at scale** | [📄](http://arxiv.org/abs/2512.03052) |
 | 12 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
 | 13 | **Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation** | [📄](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/pdf/Seed3D_v2.pdf) |
+
+<p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
+
+### 🌀 4D (Implicit)
+
+| # | Paper | Link |
+|:---:|:---|:---:|
+| 1 | **Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers** | [📄](https://arxiv.org/abs/2604.21592v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
