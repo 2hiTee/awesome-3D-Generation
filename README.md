@@ -359,26 +359,33 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 
 | # | Paper | Link |
 |:---:|:---|:---:|
-| 1 | **Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics** | [📄](http://arxiv.org/abs/2408.04631) |
-| 2 | **Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model** | [📄](http://arxiv.org/abs/2410.13882) |
-| 3 | **SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects** | [📄](http://arxiv.org/abs/2410.16499) |
-| 4 | **MeshArt: Generating Articulated Meshes with Structure-Guided Transformers** | [📄](http://arxiv.org/abs/2412.11596) |
-| 5 | **MagicArticulate: Make Your 3D Models Articulation-Ready** | [📄](http://arxiv.org/abs/2502.12135) |
-| 6 | **DreamArt: Generating Interactable Articulated Objects from a Single Image** | [📄](http://arxiv.org/abs/2507.05763) |
-| 7 | **Puppeteer: Rig and Animate Your 3D Models** | [📄](http://arxiv.org/abs/2508.10898) |
-| 8 | **Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation** | [📄](http://arxiv.org/abs/2509.10687) |
-| 9 | **FreeArt3D: Training-Free Articulated Object Generation Using 3D Diffusion** | [📄](http://arxiv.org/abs/2510.25765) |
-| 10 | **Particulate: Feed-Forward 3D Object Articulation** | [📄](http://arxiv.org/abs/2512.11798) |
-| 11 | **ART: Articulated Reconstruction Transformer** | [📄](http://arxiv.org/abs/2512.14671) |
-| 12 | **Choreographing a World of Dynamic Objects** | [📄](http://arxiv.org/abs/2601.04194) |
-| 13 | **RigMo: Unifying Rig and Motion Learning for Generative Animation** | [📄](http://arxiv.org/abs/2601.06378) |
-| 14 | **PALUM: Part-Based Attention Learning for Unified Motion Retargeting** | [📄](http://arxiv.org/abs/2601.07272) |
-| 15 | **Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis** | [📄](http://arxiv.org/abs/2601.14253) |
-| 16 | **ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion** | [📄](http://arxiv.org/abs/2601.16148) |
-| 17 | **Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging** | [📄](http://arxiv.org/abs/2602.04805) |
-| 18 | **PAct: Part-Decomposed Single-View Articulated Object Generation** | [📄](http://arxiv.org/abs/2602.14965) |
-| 19 | **ArtLLM: Generating Articulated Assets via 3D LLM** | [📄](http://arxiv.org/abs/2603.01142) |
-| 20 | **AniGen: Unified S3 Fields for Animatable 3D Asset Generation** | [📄](https://arxiv.org/abs/2604.08746v1) |
+| 1 | **URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images** | [📄](https://arxiv.org/abs/2405.11656) |
+| 2 | **Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics** | [📄](http://arxiv.org/abs/2408.04631) |
+| 3 | **Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model** | [📄](http://arxiv.org/abs/2410.13882) |
+| 4 | **SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects** | [📄](http://arxiv.org/abs/2410.16499) |
+| 5 | **ArtFormer: Controllable Generation of Diverse 3D Articulated Objects** | [📄](https://arxiv.org/abs/2412.07237) |
+| 6 | **MeshArt: Generating Articulated Meshes with Structure-Guided Transformers** | [📄](http://arxiv.org/abs/2412.11596) |
+| 7 | **RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets** | [📄](https://arxiv.org/abs/2502.09615) |
+| 8 | **MagicArticulate: Make Your 3D Models Articulation-Ready** | [📄](http://arxiv.org/abs/2502.12135) |
+| 9 | **One Model to Rig Them All: Diverse Skeleton Rigging with UniRig** | [📄](https://arxiv.org/abs/2504.12451) |
+| 10 | **Anymate: A Dataset and Baselines for Learning 3D Object Rigging** | [📄](http://arxiv.org/abs/2505.06227) |
+| 11 | **DreamArt: Generating Interactable Articulated Objects from a Single Image** | [📄](http://arxiv.org/abs/2507.05763) |
+| 12 | **Puppeteer: Rig and Animate Your 3D Models** | [📄](http://arxiv.org/abs/2508.10898) |
+| 13 | **Stable Part Diffusion 4D: Multi-View RGB and Kinematic Parts Video Generation** | [📄](http://arxiv.org/abs/2509.10687) |
+| 14 | **FreeArt3D: Training-Free Articulated Object Generation Using 3D Diffusion** | [📄](http://arxiv.org/abs/2510.25765) |
+| 15 | **PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image** | [📄](https://arxiv.org/abs/2511.13648) |
+| 16 | **Particulate: Feed-Forward 3D Object Articulation** | [📄](http://arxiv.org/abs/2512.11798) |
+| 17 | **ART: Articulated Reconstruction Transformer** | [📄](http://arxiv.org/abs/2512.14671) |
+| 18 | **Choreographing a World of Dynamic Objects** | [📄](http://arxiv.org/abs/2601.04194) |
+| 19 | **RigMo: Unifying Rig and Motion Learning for Generative Animation** | [📄](http://arxiv.org/abs/2601.06378) |
+| 20 | **PALUM: Part-Based Attention Learning for Unified Motion Retargeting** | [📄](http://arxiv.org/abs/2601.07272) |
+| 21 | **Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis** | [📄](http://arxiv.org/abs/2601.14253) |
+| 22 | **ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion** | [📄](http://arxiv.org/abs/2601.16148) |
+| 23 | **Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging** | [📄](http://arxiv.org/abs/2602.04805) |
+| 24 | **PAct: Part-Decomposed Single-View Articulated Object Generation** | [📄](http://arxiv.org/abs/2602.14965) |
+| 25 | **ArtLLM: Generating Articulated Assets via 3D LLM** | [📄](http://arxiv.org/abs/2603.01142) |
+| 26 | **AniGen: Unified S3 Fields for Animatable 3D Asset Generation** | [📄](https://arxiv.org/abs/2604.08746v1) |
+| 27 | **AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation** | [📄](https://arxiv.org/abs/2604.26917) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
