@@ -227,6 +227,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 11 | **LATTICE: Democratize high-fidelity 3D generation at scale** | [📄](http://arxiv.org/abs/2512.03052) |
 | 12 | **UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement** | [📄](http://arxiv.org/abs/2512.21185) |
 | 13 | **Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation** | [📄](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/pdf/Seed3D_v2.pdf) |
+| 14 | **Pose-Aware Diffusion for 3D Generation** | [📄](http://arxiv.org/abs/2605.00345) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
