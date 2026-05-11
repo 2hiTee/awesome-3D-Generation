@@ -387,6 +387,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 25 | **ArtLLM: Generating Articulated Assets via 3D LLM** | [📄](http://arxiv.org/abs/2603.01142) |
 | 26 | **AniGen: Unified S3 Fields for Animatable 3D Asset Generation** | [📄](https://arxiv.org/abs/2604.08746v1) |
 | 27 | **AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation** | [📄](https://arxiv.org/abs/2604.26917) |
+| 28 | **PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World** | [📄](https://arxiv.org/abs/2605.05163v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
