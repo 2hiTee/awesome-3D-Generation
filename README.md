@@ -76,6 +76,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 20 | **Enhanced 3D Generation by 2D Editing** | [📄](http://arxiv.org/abs/2412.05929) |
 | 21 | **Diverse Score Distillation** | [📄](http://arxiv.org/abs/2412.06780) |
 | 22 | **Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation** | [📄](http://arxiv.org/abs/2501.04144) |
+| 23 | **Probability-Flow Distillation: Exact Wasserstein Gradient Flow for High-Fidelity 3D Generation** | [📄](http://arxiv.org/abs/2605.09071) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
@@ -264,6 +265,7 @@ A curated collection of cutting-edge research papers on **3D and 4D Content Gene
 | 15 | **Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing** | [📄](http://arxiv.org/abs/2601.14103) |
 | 16 | **RelaxFlow: Text-Driven Amodal 3D Generation** | [📄](http://arxiv.org/abs/2603.05425) |
 | 17 | **Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors** | [📄](http://arxiv.org/abs/2603.18782) |
+| 18 | **Pixal3D: Pixel-Aligned 3D Generation from Images** | [📄](http://arxiv.org/abs/2605.10922) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
